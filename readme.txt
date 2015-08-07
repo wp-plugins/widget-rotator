@@ -45,11 +45,11 @@ Yes it will be. We have future plans regarding this plugin.
 
 == Screenshots ==
 
-1. /assets/1.png
-
-2. `/assets/2.png`
-
-3. `/assets/3.png`
+1. This screen shot description corresponds to 1.png. Note that the screenshot is taken from
+the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
+directory take precedence. For example, `/assets/1.png` would win over `/tags/1.0/assets/1.png` 
+(or jpg, jpeg, gif).
+2. This is the second screen shot
 
 == Changelog ==
 
