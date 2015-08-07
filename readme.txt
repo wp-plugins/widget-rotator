@@ -45,7 +45,7 @@ Yes it will be. We have future plans regarding this plugin.
 
 == Screenshots ==
 
-1. http://plugins.svn.wordpress.org/widget-rotator/assets/1.png
+1. `/assets/1.png`
 
 2. `/assets/2.png`
 
